@@ -2,6 +2,10 @@ from abc import ABC ,abstractmethod
 
 class tea(ABC):
 
+
+
+    # hey this program is based on abstraction concept
+
     @abstractmethod
     def ingri(self):
         pass
